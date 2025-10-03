@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # my_first_proyect_hatr
 Diseño de sistemas en Internet Guía Didáctica N° 1- Explorando Ecosistema _ Creación de primer proyecto
 =======
@@ -101,3 +102,6 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 >>>>>>> 5275252 (El primer Commit de la Guia)
+=======
+# my_first_proyect_hatr-parctica
+>>>>>>> 14972152696939a12191b1d09b9448c3d58d7afa
